@@ -1,0 +1,8 @@
+*** Test Cases ***
+Valid Login
+[Tags] Iteration‐3 Smoke
+Open Login Page
+Input Username ${VALID USERNAME}
+Input Password ${VALID PASSWORD}
+Submit Credentials
+Welcome Page Should Be Open

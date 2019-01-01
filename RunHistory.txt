@@ -1,0 +1,25 @@
+Test Folder : MFM\Automation\Jenkin-Test-Automation
+Test set Folder: MFM\Jenkin-Test-Automation
+Build: 37
+20TestsinSuite
+
+Test Folder : MFM\Automation\Jenkin-Test-Automation
+Test set Folder: MFM\Jenkin-Test-AutomationMultiple
+Build: 
+20 tests Run
+
+Test Folder : MFM\Automation\Jenkin-Test-Automation
+Test set Folder: MFM\Jenkin-Test-AutomationManual
+Build: 
+Manual+AutomationRuns
+
+Test Folder : MFM\Automation\Jenkin-Test-Automation
+Test set Folder: MFM\Jenkin-Test-AutomationTrace
+Build: 
+Traceability
+
+Test Folder : MFM\Automation\Jenkin-Test-Automation
+Test set Folder: MFM\Jenkin-Test-AutomationStatus
+Build: 
+TestStatus
+
