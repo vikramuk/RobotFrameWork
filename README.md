@@ -1,6 +1,3 @@
-
-
-
 http://acdev.ir/wp-content/uploads/2016/03/Design-Android-Apps-Ryan-Cohen-ebook.pdf
 
 http://enos.itcollege.ee/~jpoial/allalaadimised/reading/Android-UI-Design.pdfAndroid
@@ -23,3 +20,14 @@ Sample Robot Framework code
 Notepad++ Plugin : https://github.com/vkosuri/npp-robot/archive/master.zip 
 
 https://github.com/NitorCreations/RobotFramework-EclipseIDE/wiki/Installation
+
+
+Squish:
+https://kb.froglogic.com/display/KB/Article+-+Introduction+to+Python+in+Squish
+
+Python Basics:
+https://docs.python.org/release/2.4.3/tut/node11.html#SECTION0011100000000000000000
+Squish project:
+https://github.com/jniehus/Squish-Report
+
+
