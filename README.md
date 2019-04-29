@@ -31,3 +31,14 @@ Squish project:
 https://github.com/jniehus/Squish-Report
 
 
+http://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#getting-information
+python -m robot.libdoc Dialogs list
+
+python -m robot.libdoc SeleniumLibrary list browser
+
+python -m robot.libdoc Remote::10.0.0.42:8270 show
+
+python -m robot.libdoc Dialogs show PauseExecution execute*
+
+python -m robot.libdoc SeleniumLibrary show intro
+python -m robot.libdoc SeleniumLibrary version
