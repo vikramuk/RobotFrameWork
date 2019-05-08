@@ -43,3 +43,11 @@ python -m robot.libdoc Dialogs show PauseExecution execute*
 python -m robot.libdoc SeleniumLibrary show intro
 
 python -m robot.libdoc SeleniumLibrary version
+
+https://github.com/robotframework/HowToWriteGoodTestCases/blob/master/HowToWriteGoodTestCases.rst
+
+https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html
+
+https://docs.plone.org/develop/testing/functional_testing.html
+
+https://github.com/NitorCreations/RobotFramework-EclipseIDE/wiki/Installation
