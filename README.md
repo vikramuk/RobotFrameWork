@@ -51,3 +51,14 @@ https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html
 https://docs.plone.org/develop/testing/functional_testing.html
 
 https://github.com/NitorCreations/RobotFramework-EclipseIDE/wiki/Installation
+
+https://chrome.google.com/webstore/detail/chrome-robot/dihdbpkpgdkioobahfpnkondnekhbmlo?hl=en
+
+
+
+https://chrome.google.com/webstore/detail/robotcorder/ifiilbfgcemdapeibjfohnfpfmfblmpd?hl=en
+
+https://github.com/joao-carloto/ChromeRobot
+
+https://github.com/vkosuri/npp-robot
+
